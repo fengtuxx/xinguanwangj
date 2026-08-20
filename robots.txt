@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fengtuxx.github.io/xinguanwangj/sitemap.xml
